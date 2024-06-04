@@ -1,1 +1,1 @@
-# cdsuperat.io
+theme: jekyll-theme-NAME
